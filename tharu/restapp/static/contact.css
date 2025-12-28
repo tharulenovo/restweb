@@ -1,0 +1,62 @@
+body {
+    height: 100h;
+    background-image: url("Untitled\ design.png");
+    background-size: cover;
+    background-position: center;
+    color: rgb(251, 255, 18);
+}
+
+.nav{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    background-color:rgb(251, 255, 18);
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+.nav{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+.nav a{
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 10px 15px;
+    background-color: rgb(251, 255, 18);
+    color:rgb(158, 66, 16);
+    font-size: 16px;
+}   
+.contact {
+    padding: 100px 60px;
+}
+
+.contact h1 {
+    font-size: 80px;
+    color: rgb(251, 255, 18);
+    margin-bottom: 30px;
+}
+
+.details h2 {
+    font-size: 26px;
+    margin-top: 20px;
+}
+
+.details p {
+    font-size: 18px;
+    line-height: 2;
+    margin-top: 5px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: -20px;
+    background-color: rgb(29, 31, 3); 
+    color: rgb(249, 233, 193); 
+    text-align: center;
+    font-family: Arial, sans-serif; 
+    padding: 10px;
+}
